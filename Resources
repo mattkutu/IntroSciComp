@@ -1,0 +1,46 @@
+
+Tutorials:
+
+  Scientific python lecture notes
+  https://github.com/jrjohansson/scientific-python-lectures
+  
+  Johansson lecture notes
+  https://github.com/jrjohansson/scientific-python-lectures
+  
+  Hands on python
+  http://anh.cs.luc.edu/handsonPythonTutorial/index.html
+
+  Practice python
+  https://www.practicepython.org/
+
+Hydrology:
+  http://abouthydrology.blogspot.com/2016/11/python-resources-for-hydrologists.html
+  http://greenteapress.com/pythonhydro/pythonhydro.html
+  https://water.usgs.gov/ogw/flopy/
+
+Tip for masked arrays:
+
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.ma.masked_invalid.html#numpy.ma.masked_invalid
+
+
+Linear Regression:
+https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2
+
+Logistic Regression:
+https://towardsdatascience.com/building-a-logistic-regression-in-python-301d27367c24
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
+
+Python for Atmospheric and Ocean Sciences, tons of resources:
+
+  http://pyaos.johnny-lin.com/
+
+
+Python and GIS:
+
+  Programming ArcGIS 10.1 with Python Cookbook (2013) 
+  https://www.packtpub.com/application-development/programming-arcgis-101-python-cookbook
+  Might be a little outdated
+
+  Good blog with lots of resources:
+  http://geospatialpython.com/
